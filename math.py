@@ -6,7 +6,7 @@ def add(x,y):
 	return x+y
     
 def sub(x,y):
-	pass
+	return x-y  #bug456 branch
     
 def divide(x,y):
 	pass
