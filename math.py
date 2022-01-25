@@ -1,6 +1,6 @@
 #add mul fn header
 def mul(x,y):
-	pass
+	return x*y #from local repo
 
 def add(x,y):
 	return x+y
